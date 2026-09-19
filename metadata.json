@@ -1,0 +1,21 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "denys.madureira@pm.me",
+        "Name": "Denys Madureira"
+      }
+    ],
+    "Category": "Windows and Tasks",
+    "Description": "Numbered boxes for switching virtual desktops",
+    "Icon": "virtual-desktops",
+    "Id": "io.github.DenysMb.MOSBoxPager",
+    "License": "GPL-3.0+",
+    "Name": "Box Pager",
+    "Version": "1.0.0",
+    "Website": "https://github.com/DenysMb/MOSBoxPager"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "X-Plasma-Provides": ["org.kde.plasma.virtualdesktops"]
+}
